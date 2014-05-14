@@ -1,10 +1,4 @@
-group :development, :test do
-	source 'https://ruby.taobao.org'
-end
-
-group :production do
-	source 'https://rubygems.org'
-end
+source 'https://rubygems.org'
 
 ruby '2.0.0'
 
